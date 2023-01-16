@@ -1,0 +1,10 @@
+Passo 01 - Descrição dos dados
+Passo 02 - Feature Engineering
+Passo 03 - Filtragem de variáveis
+Passo 04 - Análise exploratória dos dados (EDA)
+Passo 05 - Preparação dos dados
+Passo 06 - Seleção de Variáveis com algoritmo
+Passo 07 - Modelos de Machine Learning
+Passo 08 - Hyperparameter Fine Tuning
+Passo 09 - Interpretação e tradução do erro
+Passo 10 - Deploy do modelo em produção
